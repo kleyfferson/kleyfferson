@@ -101,7 +101,7 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 [![Email](https://img.shields.io/badge/Email-kleyfferson.silva%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kleyfferson.silva@gmail.com)
 [![Email](https://img.shields.io/badge/Email-kleyfferson_lima%40hotmail.com-orange?style=flat-square&logo=microsoftoutlook)](mailto:kleyfferson_lima@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleyfferson-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kleyffersonsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleyfferson-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kleyffersonsilva)
 [![Medium](https://img.shields.io/badge/Medium-@kleyfferson.silva-black?style=flat-square&logo=medium)](https://medium.com/@kleyfferson.silva)
 [![GitHub](https://img.shields.io/badge/GitHub-kleyfferson-lightgrey?style=flat-square&logo=github)](https://github.com/kleyfferson)
 
