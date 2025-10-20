@@ -103,7 +103,8 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 ## 📫 Onde me encontrar | Find Me
 
-📧 **E-mail / Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+📧 **E-mail / Email:** [kleyfferson.silva@gmail.com](mailto:kleyfferson.silva@gmail.com)
+📧 **E-mail / Email:** [kleyfferson_lima@hotmail.com](mailto:kleyfferson_lima@hotmail.com)
 💼 **LinkedIn:** [linkedin.com/in/kleyfferson](https://linkedin.com/in/kleyfferson)  
 📝 **Medium:** [medium.com/@kleyfferson.silva](https://medium.com/@kleyfferson.silva)  
 💻 **GitHub:** [github.com/kleyfferson](https://github.com/kleyfferson)
