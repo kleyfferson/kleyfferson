@@ -80,17 +80,11 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 ## 🌟 Destaques Técnicos | Technical Highlights
 
-- Desenvolvimento de **testes automatizados reutilizáveis** e **escaláveis**  
-- Criação e manutenção de **pipelines CI/CD** integrados ao GitHub Actions  
-- Aplicação de **Page Object Model (POM)** e princípios de **Clean Code**  
-- Experiência com **testes REST APIs**, **mocking** e **validação de contratos**  
-- Foco em **qualidade de entrega** e **integração contínua**
-
-- Development of **reusable** and **scalable automated tests**  
-- Building and maintaining **CI/CD pipelines** integrated with GitHub Actions  
-- Implementation of **Page Object Model (POM)** and **Clean Code** principles  
-- Experience with **REST API testing**, **mocking**, and **contract validation**  
-- Strong focus on **delivery quality** and **continuous integration**
+- Desenvolvimento de **testes automatizados reutilizáveis** e **escaláveis**  (Development of **reusable** and **scalable automated tests**  )
+- Criação e manutenção de **pipelines CI/CD** integrados ao GitHub Actions  (Building and maintaining **CI/CD pipelines** integrated with GitHub Actions  )
+- Aplicação de **Page Object Model (POM)** e princípios de **Clean Code**  (Implementation of **Page Object Model (POM)** and **Clean Code** principles  )
+- Experiência com **testes REST APIs**, **mocking** e **validação de contratos**  (Experience with **REST API testing**, **mocking**, and **contract validation**)
+- Foco em **qualidade de entrega** e **integração contínua** (Strong focus on **delivery quality** and **continuous integration**)
 
 ---
 
@@ -103,11 +97,13 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 ## 📫 Onde me encontrar | Find Me
 
-📧 **E-mail / Email:** [kleyfferson.silva@gmail.com](mailto:kleyfferson.silva@gmail.com)
-📧 **E-mail / Email:** [kleyfferson_lima@hotmail.com](mailto:kleyfferson_lima@hotmail.com)
-💼 **LinkedIn:** [linkedin.com/in/kleyfferson](https://linkedin.com/in/kleyfferson)  
-📝 **Medium:** [medium.com/@kleyfferson.silva](https://medium.com/@kleyfferson.silva)  
-💻 **GitHub:** [github.com/kleyfferson](https://github.com/kleyfferson)
+## 📫 Onde me encontrar | Find Me
+
+[![Email](https://img.shields.io/badge/Email-kleyfferson.silva%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kleyfferson.silva@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kleyfferson_lima%40hotmail.com-orange?style=flat-square&logo=microsoftoutlook)](mailto:kleyfferson_lima@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleyfferson-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kleyfferson)
+[![Medium](https://img.shields.io/badge/Medium-@kleyfferson.silva-black?style=flat-square&logo=medium)](https://medium.com/@kleyfferson.silva)
+[![GitHub](https://img.shields.io/badge/GitHub-kleyfferson-lightgrey?style=flat-square&logo=github)](https://github.com/kleyfferson)
 
 ---
 
