@@ -97,8 +97,6 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 ## 📫 Onde me encontrar | Find Me
 
-## 📫 Onde me encontrar | Find Me
-
 [![Email](https://img.shields.io/badge/Email-kleyfferson.silva%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kleyfferson.silva@gmail.com)
 [![Email](https://img.shields.io/badge/Email-kleyfferson_lima%40hotmail.com-orange?style=flat-square&logo=microsoftoutlook)](mailto:kleyfferson_lima@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleyfferson-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kleyffersonsilva)
