@@ -62,7 +62,18 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 ---
 
-## 📁 Meus Principais Projetos | Featured Projects | Tipo / Type | Repositório | Descrição / Description | |--------------|--------------|--------------------------| | 🧪 **Testes de API** | [gerenciador-viagens](https://github.com/kleyfferson/gerenciador-viagens.git) | Automação de testes de API com RestAssured e integração contínua. / API test automation with RestAssured and CI integration. | | 🌐 **Automação Web** | [Automacao_WEB](https://github.com/kleyfferson/Automacao_WEB.git) | Testes automatizados de interface com Selenium e Page Object. / UI automation with Selenium and Page Object Model. | | 📱 **Automação Mobile** | [Automacao_Mobile](https://github.com/kleyfferson/Automacao_Mobile.git) | Automação de testes mobile com Appium. / Mobile automation using Appium. | | 🧩 **Testes Unitários (Parte 1)** | [Teste_Unitarios](https://github.com/kleyfferson/Teste_Unitarios.git) | Práticas de testes unitários com JUnit. / Unit testing practices using JUnit. | | 🧩 **Testes Unitários (Parte 2)** | [Teste_Unitarios_ParteDois](https://github.com/kleyfferson/Teste_Unitarios_ParteDois.git) | Continuação dos estudos de testes unitários. / Continuation of unit test studies. | | 🧩 **Testes Unitários (Extra)** | [Projeto_Teste_Unitarios](https://github.com/kleyfferson/Projeto_Teste_Unitarios.git) | Projeto prático com boas práticas de unit tests. / Practical project with best unit testing practices. | | ⚙️ **CI/CD e Integração Contínua** | [CI-CD](https://github.com/kleyfferson/CI-CD.git) | Pipeline automatizado com GitHub Actions. / Automated pipeline with GitHub Actions. | | 🧠 **Tópicos Especiais / Testes de API** | [topicos_especiais](https://github.com/kleyfferson/topicos_especiais.git) | Testes avançados de API e boas práticas. / Advanced API testing and best practices. | | 🧬 **Automação com Cypress** | [DesafioQA_Kleyfferson](https://github.com/kleyfferson/DesafioQA_Kleyfferson.git) | Testes end-to-end com Cypress. / End-to-end tests with Cypress. |
+# 📁 Meus Principais Projetos | Featured Projects
+
+| Tipo / Type | Repositório | Descrição / Description |
+|--------------|--------------|--------------------------|
+| 🧪 **Testes de API** | gerenciador-viagens | Automação de testes de API com RestAssured e integração contínua. |
+| 🌐 **Automação Web** | Automacao_WEB | Testes automatizados de interface com Selenium e Page Object. |
+| 📱 **Automação Mobile** | Automacao_Mobile | Automação de testes mobile com Appium. |
+| 🧩 **Testes Unitários (Parte 1)** | Teste_Unitarios | Práticas de testes unitários com JUnit. |
+| 🧩 **Testes Unitários (Parte 2)** | Teste_Unitarios_ParteDois | Continuação dos estudos de testes unitários. |
+| 🧩 **Testes Unitários (Extra)** | Projeto_Teste_Unitarios | Projeto prático com boas práticas de unit tests. |
+| ⚙️ **CI/CD e Integração Contínua** | CI-CD | Pipeline automatizado com GitHub Actions. |
+| 🧠 **Tópicos Especiais / Testes de API** | topicos_especiais | Testes avançados de API e boas
 
 ---
 
