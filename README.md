@@ -48,11 +48,13 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 ## 🧩 Tecnologias e Ferramentas | Technologies & Tools
 
+## 🧩 Tecnologias e Ferramentas | Technologies & Tools
+
 ### **Linguagens**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Frameworks e Bibliotecas de Testes**
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testng&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ![REST-assured](https://img.shields.io/badge/RestAssured-00A98F?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testng&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ![REST-assured](https://img.shields.io/badge/RestAssured-00A98F?style=for-the-badge) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### **Automação Web e Mobile**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-5C2D91?style=for-the-badge&logo=appium&logoColor=white)
