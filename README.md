@@ -86,11 +86,20 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 - Foco em **qualidade de entrega** e **integração contínua**
 
 ---
-
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
-![Kleyfferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleyfferson&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleyfferson&layout=compact&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/kleyfferson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyfferson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/kleyfferson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyfferson&layout=compact&theme=tokyonight&langs_count=7"/>
+  </a>
+  <br>
+  <a href="https://github.com/kleyfferson">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kleyfferson&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
