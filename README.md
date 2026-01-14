@@ -90,14 +90,14 @@ I develop **automated tests across multiple layers** — **API, Web, Mobile, Uni
 
 <div align="center">
   <a href="https://github.com/kleyfferson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyfferson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyfferson&show_icons=true&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/kleyfferson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyfferson&layout=compact&theme=tokyonight&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyfferson&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
   <br>
   <a href="https://github.com/kleyfferson">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kleyfferson&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=kleyfferson&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
